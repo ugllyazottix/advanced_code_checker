@@ -1,2 +1,2 @@
-# advanced_code_checker
-adv. code checker on python
+Check README_en.md
+Смотрите README_ru.md
